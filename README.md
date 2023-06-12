@@ -118,8 +118,7 @@ This project is not currently deployed.
 
 - GitHub: [@meryemsanem](https://github.com/meryemsanem)
 - Twitter: [@msanemkckbayram](https://twitter.com/twitterhandle)
-- LinkedIn: [henokkhm](https://linkedin.com/in/linkedinhandle)
--
+- LinkedIn: [Meryem Sanem Küçükbayram](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
