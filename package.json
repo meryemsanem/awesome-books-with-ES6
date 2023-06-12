@@ -117,6 +117,7 @@
     "json5": "^2.2.3",
     "kind-of": "^6.0.3",
     "known-css-properties": "^0.21.0",
+    "latest": "^0.2.0",
     "lines-and-columns": "^1.2.4",
     "locate-path": "^5.0.0",
     "lodash": "^4.17.21",

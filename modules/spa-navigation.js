@@ -3,7 +3,6 @@ const navContainer = document.querySelector('#nav-links');
 const pages = document.querySelectorAll('.page');
 let currentPage = 'book-list-page';
 
-
 const updatePage = () => {
   pages.forEach((page) => {
     if (page.id === currentPage) {
