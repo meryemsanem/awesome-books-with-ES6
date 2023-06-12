@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Awesome Books</title>
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <nav class="nav">
+          <h1 class="page-title">All awesome books</h1>
+          <ul class="nav-links" id="nav-links">
+            <li class="nav-link" data-links-to="book-list-page">List</li>
+            <span>|</span>
+            <li class="nav-link" data-links-to="add-new-book-page">Add New</li>
+            <span>|</span>
+            <li class="nav-link" data-links-to="contact-page">Contact</li>
+          </ul>
+        </nav>
+        <div class="date"></div>
+      </header>
+      <main class="main">
+        <section id="book-list-page" class="page book-list">
+          <h2 class="section-title">All awesome books</h2>
+          <div class="page-content">
+            <ul id="books" class="books-list"></ul>
+          </div>
+        </section>
+
+        <section id="add-new-book-page" class="page add-new-book">
+          <h2 class="section-title">Add a new book</h2>
+          <div class="page-content">
+            <form class="form" id="form">
+              <input
+                class="form-input"
+                type="text"
+                name="title"
+                placeholder="Title"
+                required
+              />
+
+              <input
+                class="form-input"
+                type="text"
+                name="author"
+                placeholder="Author"
+                required
+              />
+              <button class="btn form-btn" type="submit" class="add" id="add">
+                Add
+              </button>
+            </form>
+          </div>
+        </section>
+
+        <section id="contact-page" class="page contact">
+          <h2 class="section-title">Contact Information</h2>
+          <div class="page-content">
+            <p>
+              Do you have any questions or you just want to say "Hello"? You can
+              reach out to us
+            </p>
+            <ul class="contact-details">
+              <li>Our email: hello@mail.com</li>
+              <li>Our phone number: +3322847589</li>
+              <li>Our address: Street name 34, 44693 City, Country</li>
+            </ul>
+          </div>
+        </section>
+      </main>
+      <footer class="footer">
+        Copyright (c) 2023 Meryem Sanem Küçükbayram and Henok K Hailemariam
+      </footer>
+    </div>
+  </body>
+  <script src="index.js" type="module"></script>
+  <script src="modules/spa-navigation.js"></script>
+</html>
