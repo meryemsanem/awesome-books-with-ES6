@@ -13,6 +13,7 @@
   "name": "portfolio-include",
   "description": "<a name=\"readme-top\"></a>\r <div>\r   <h3><b>Hello Microverse</b></h3>\r </div>",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "dependencies": {
     "ajv": "^8.12.0",
