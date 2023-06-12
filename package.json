@@ -139,6 +139,7 @@
     "minimist": "^1.2.8",
     "minimist-options": "^4.1.0",
     "ms": "^2.1.2",
+    "node-fetch": "^3.3.1",
     "node-releases": "^2.0.10",
     "normalize-package-data": "^3.0.3",
     "normalize-range": "^0.1.2",
