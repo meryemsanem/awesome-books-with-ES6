@@ -119,12 +119,7 @@ This project is not currently deployed.
 - GitHub: [@meryemsanem](https://github.com/meryemsanem)
 - Twitter: [@msanemkckbayram](https://twitter.com/twitterhandle)
 - LinkedIn: [henokkhm](https://linkedin.com/in/linkedinhandle)
-- 
-👤 **Henok K Hailemariam**
-
-- GitHub: [@henokkhm](https://github.com/henokkhm)
-- Twitter: [@henokkhm](https://twitter.com/henokkhm)
-- LinkedIn: [henokkhm](https://www.linkedin.com/in/henokkhm/)
+-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,7 +153,7 @@ If you like this project, you can contribute to it. You are also welcome to give
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank Microverse for teaching and enforcing professional level practices.
+I would like to thank Microverse for teaching and enforcing professional level practices.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
