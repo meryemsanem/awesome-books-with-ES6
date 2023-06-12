@@ -59,7 +59,7 @@ This project is the first project of Module 2 of Microverse Full Stack Program. 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-👉 Coming soon
+- The link to my online portfolio [Live Demo Link](https://meryemsanem.github.io/awesome-books-with-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,13 +118,7 @@ This project is not currently deployed.
 
 - GitHub: [@meryemsanem](https://github.com/meryemsanem)
 - Twitter: [@msanemkckbayram](https://twitter.com/twitterhandle)
-- LinkedIn: [henokkhm](https://linkedin.com/in/linkedinhandle)
-- 
-👤 **Henok K Hailemariam**
-
-- GitHub: [@henokkhm](https://github.com/henokkhm)
-- Twitter: [@henokkhm](https://twitter.com/henokkhm)
-- LinkedIn: [henokkhm](https://www.linkedin.com/in/henokkhm/)
+- LinkedIn: [Meryem Sanem Küçükbayram](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,7 +152,7 @@ If you like this project, you can contribute to it. You are also welcome to give
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank Microverse for teaching and enforcing professional level practices.
+I would like to thank Microverse for teaching and enforcing professional level practices.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

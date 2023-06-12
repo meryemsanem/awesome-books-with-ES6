@@ -66,10 +66,7 @@
 }
 
 .date {
-  display: flex;
-  justify-content: flex-end;
-  margin-inline: 1rem;
-  padding-block: 0.4rem;
+  text-align: right;
 }
 
 .section-title {
