@@ -59,7 +59,7 @@ This project is the first project of Module 2 of Microverse Full Stack Program. 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-👉 Coming soon
+- The link to my online portfolio [Live Demo Link](https://meryemsanem.github.io/awesome-books-with-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
